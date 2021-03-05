@@ -1,0 +1,5 @@
+print('======= Desafio 03 =========')
+num1 = input('Digite um numero ')
+num2 = input('Digite outro para soma ')
+soma = float(num1) + float(num2)
+print('A soma dos dois números é:', soma)
